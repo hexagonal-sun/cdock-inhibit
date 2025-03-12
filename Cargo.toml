@@ -1,0 +1,10 @@
+[package]
+name = "cdock-inhibit"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.97"
+libc = "0.2.171"
+udev = "0.9.3"
+zbus = "5.5.0"
